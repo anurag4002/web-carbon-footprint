@@ -49,7 +49,7 @@ and be part of a solution that aims for a greener internet.
 ### Installation & Configuration
 
 1. **Clone the Repo**  
-   `git clone https://github.com/abhishek-x/web-carbon.git`
+   `git clone https://github.com/anurag4002/web-carbon-footprint.git`
 
 2. **Go to the Extensions page** by entering `chrome://extensions` in a new tab or, click the Chrome menu, hover over `More Tools`, then select Extensions.
 
@@ -101,6 +101,6 @@ and be part of a solution that aims for a greener internet.
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/abhishek-x"><img src="https://avatars.githubusercontent.com/u/70960570?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Aggarwal</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/anurag4002"><img src="https://photos.app.goo.gl/PN9QdqgJpyEwegAp8" width="100px;" alt=""/><br /><sub><b>Anurag Mishra</b></sub></a><br /></td>
   </tr>
 </table>
