@@ -101,6 +101,6 @@ and be part of a solution that aims for a greener internet.
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/anurag4002"><img src="https://photos.app.goo.gl/PN9QdqgJpyEwegAp8" width="100px;" alt=""/><br /><sub><b>Anurag Mishra</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/anurag4002"><img src="https://ibb.co/3kdBLjx" width="100px;" alt=""/><br /><sub><b>Anurag Mishra</b></sub></a><br /></td>
   </tr>
 </table>
