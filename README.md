@@ -67,7 +67,7 @@ and be part of a solution that aims for a greener internet.
 - Access WebCarbon by clicking on the extension icon in the Chrome browser toolbar.
 
 ## 📝 Algorithms Used
-1. **Daily Carbon Emission Calculation:** This calculates the carbon emissions for the current day by multiplying the number of pages viewed today (`dayCount`)
+1. **Daily Carbon Emission Calculation:** This calculate the carbon emissions for the current day by multiplying the number of pages viewed today (`dayCount`)
    by the average carbon emissions per page view (`carbonPerPage`).
 
    `todayCarbon = dayCount * carbonPerPage`
@@ -104,3 +104,4 @@ and be part of a solution that aims for a greener internet.
     <td align="center"><a href="https://github.com/anurag4002"><img src="https://ibb.co/3kdBLjx" width="100px;" alt=""/><br /><sub><b>Anurag Mishra</b></sub></a><br /></td>
   </tr>
 </table>
+
