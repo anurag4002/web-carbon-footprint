@@ -1,7 +1,7 @@
 ![Logo](icons/icon-128x128.png)
 # WebCarbon
 
-With every web page generating 1.76g of carbon emissions, the cumulative effect of our online activities becomes a significant environmental concern. it's an energy-hungry colossus, 
+With every web page generating 1.76g of carbon emissions, cumulative effect of our online activities becomes a significant environmental concern. it's an energy-hungry colossus, 
 consuming over 416.2 TWh annually—surpassing the entire electricity consumption of the United Kingdom.
 
 `WebCarbon` is a Chrome Browser extension, designed for tracking and calculating the CO2e emissions from your daily browsing, offering a real-time audit of your digital carbon footprint.
